@@ -1,0 +1,18 @@
+#drum-machine {
+    margin-top: 50px;
+}
+
+#display {
+    font-size: 1.5rem;
+    height: 60px;
+}
+
+.drum-pad {
+    margin: 10px;
+    padding: 20px;
+    font-size: 1.2rem;
+}
+
+.drum-pad:active {
+    background-color: #5a5a5a;
+}
